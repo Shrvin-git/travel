@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "inter";
+    src: url("../font/Inter-Regular.otf")format("opentype");
+
+}
+
+@font-face {
+    font-family: "roboto2";
+    src: url("../fonts/RobotoSlab-Light.ttf")format("truetype");
+
+}
+
