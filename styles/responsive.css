@@ -329,7 +329,9 @@
     .header__description {
         text-align: center;
     }
-
+    .shape2{
+        display: none;
+    }
     .services__item {
         padding: 2.2rem 2.9rem;
     }
